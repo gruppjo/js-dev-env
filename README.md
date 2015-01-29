@@ -34,10 +34,10 @@ A convenient and opinionated help for setting up your javascript development env
 - sublime setting files
   - sublime `Preferences.sublime-settings`
     - open in sublime: `Preferences -> Settings - User`
-    - add contents from this repo's `sublime-preferences/Preferences.sublime-settings` see [in this repo](https://github.com/gruppjo/js-dev-env/blob/master/sublime-preferences/Preferences.sublime-settings)
+    - add contents from `sublime-preferences/Preferences.sublime-settings` see [in this repo](https://github.com/gruppjo/js-dev-env/blob/master/sublime-preferences/Preferences.sublime-settings)
   - SublimeLinter3 `SublimeLinter.sublime-settings`
     - open in sublime: `Preferences -> Package Settings -> SublimeLinter -> Settings - User`
-    - add contents from this repo's `sublime-preferences/SublimeLinter.sublime-settings` see [in this repo](https://github.com/gruppjo/js-dev-env/blob/master/sublime-preferences/SublimeLinter.sublime-settings)
+    - add contents from `sublime-preferences/SublimeLinter.sublime-settings` see [in this repo](https://github.com/gruppjo/js-dev-env/blob/master/sublime-preferences/SublimeLinter.sublime-settings)
 - project files (if not provided by the generators you use for your projects)
     - add to root directory of every project
       - `.jscsrc` see [in this repo](https://github.com/gruppjo/js-dev-env/blob/master/project-files/.jscsrc)
