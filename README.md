@@ -4,7 +4,7 @@ A convenient and opinionated help for setting up your javascript development env
 ## System Tools
 ### Mac
 - homebrew - the missing package manager for OS X - http://brew.sh/
-- dotfile repositories -
+- dotfile repositories
   - by mathiasbynens - https://github.com/mathiasbynens/dotfiles
   - other popular dotfile repositories - https://dotfiles.github.io/
   - some insight on what they do - http://code.tutsplus.com/tutorials/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449
@@ -34,11 +34,11 @@ A convenient and opinionated help for setting up your javascript development env
 - sublime setting files
   - sublime `Preferences.sublime-settings`
     - open in sublime: `Preferences -> Settings - User`
-    - add contents from this repo's `sublime-preferences/Preferences.sublime-settings` see [here](http://google.com)
+    - add contents from this repo's `sublime-preferences/Preferences.sublime-settings` see [in this repo](https://github.com/gruppjo/js-dev-env/blob/master/sublime-preferences/Preferences.sublime-settings)
   - SublimeLinter3 `SublimeLinter.sublime-settings`
     - open in sublime: `Preferences -> Package Settings -> SublimeLinter -> Settings - User`
-    - add contents from this repo's `sublime-preferences/SublimeLinter.sublime-settings` see [here](http://google.com)
+    - add contents from this repo's `sublime-preferences/SublimeLinter.sublime-settings` see [in this repo](https://github.com/gruppjo/js-dev-env/blob/master/sublime-preferences/SublimeLinter.sublime-settings)
 - project files (if not provided by the generators you use for your projects)
     - add to root directory of every project
-      - `.jscsrc` see in this [here](http://google.com)
-      - `.jshintrc` see in this [here](http://google.com)
+      - `.jscsrc` see [in this repo](https://github.com/gruppjo/js-dev-env/blob/master/project-files/.jscsrc)
+      - `.jshintrc` see [in this repo](https://github.com/gruppjo/js-dev-env/blob/master/project-files/.jshintrc)
