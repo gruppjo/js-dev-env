@@ -11,6 +11,7 @@ A convenient and opinionated help for setting up your javascript development env
 
 ## Tools
 - git
+  - learn how to use git - https://try.github.io/
 - node (comes with mathiasbynens dotfiles setup) - http://nodejs.org/download/
   - yeoman - scaffolding - http://yeoman.io/
     - one of many great generators - http://yeoman.io/generators/
